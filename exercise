@@ -11,7 +11,7 @@
     </div>
 </div>
 <div>
-    <h1>NBA Data API</h1>
+    <span style=”font-size: 32px; margin: 21px 0;”>NBA Data API</span>
     <div>
         <h2>Readability</h2>
         <img src="" alt="">
@@ -28,7 +28,7 @@
         <p>API response in seconds</p>
     </div>
     <div>
-        <h2>What is the NBA?</h2>
+        <h2>How to use an API?</h2>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, rerum?</p>
     </div>
 </div>
