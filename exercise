@@ -1,0 +1,46 @@
+<!-- UPGRADE THE DIV ELEMENTS TO HTML5 SEMANTIC ELEMENTS APPROPRIATE TO THEIR PURPOSE ON THE WEB PAGE -->
+
+<div>
+    <img src="images/logo--main.png" alt="Main Logo">
+    <div>
+        <ul>
+            <li>About</li>
+            <li>Contact</li>
+            <li>Purchase</li>
+        </ul>
+    </div>
+</div>
+<div>
+    <h1>NBA Data API</h1>
+    <div>
+        <h2>Readability</h2>
+        <img src="" alt="">
+        <p>Comes in readable and consumable JSON or XML format</p>
+    </div>
+    <div>
+        <h2>Flexibility</h2>
+        <img src="" alt="">
+        <p>Tell the API exactly what data you want; including specific teams, players, years, etc.</p>
+    </div>
+    <div>
+        <h2>Speed</h2>
+        <img src="" alt="">
+        <p>API response in seconds</p>
+    </div>
+    <div>
+        <h2>What is the NBA?</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, rerum?</p>
+    </div>
+</div>
+<div style="position: fixed; left: 0;">
+    <nav>
+        <ul>
+            <li>Why use it?</li>
+            <li>How to use it?</li>
+            <li>Additional Resources</li>
+        </ul>
+    </nav>
+</div>
+<div>
+    <p>© Copyright Info, All Rights Reserved</p>
+</div>
